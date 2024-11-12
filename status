@@ -1,0 +1,50 @@
+[33mcommit 35322d16b08a46b6986e38c37baf57f0ee93f72f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/development[m[33m)[m
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Wed Nov 6 16:24:39 2024 +0100
+
+    added 1 notebook: updated Facial expr rec project nb
+
+[33mcommit 55f9130fded2e3e437f4101a74c4d96ebbaf73f3[m
+Merge: 5ecd494 7ce8ad8
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Tue Nov 5 21:13:00 2024 +0100
+
+    Merge branch 'development' of https://github.com/Malek-Dinari/Computer-Vision-and-ML-Notebooks into development
+    Merged updates from remote development branch
+
+[33mcommit 5ecd494d7a5a4cae921bc600e42707bfe8e6f2ad[m
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Tue Nov 5 21:12:15 2024 +0100
+
+    Added 1 MM notebook
+
+[33mcommit 7ce8ad888b6dcf901c3df2e11dfecf3b17f284b5[m
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Mon Nov 4 22:01:35 2024 +0100
+
+    Delete 3D-Mesh-processing-Face-Expression-analysis-/Mesh_tryon_pretraitement.ipynb
+
+[33mcommit da633bb24713f15f007721a52b4ffa9c9e9f509c[m
+Merge: 44f9a5c dea2e06
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Mon Nov 4 21:59:22 2024 +0100
+
+    Merge branch 'development' of https://github.com/Malek-Dinari/Computer-Vision-and-ML-Notebooks into development
+
+[33mcommit 44f9a5c465afd75f9e0b42ddcf79e05a898f0441[m
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Mon Nov 4 21:58:22 2024 +0100
+
+    Added 2 notebooks
+
+[33mcommit dea2e066645cf53c586d12390f70cf451332395e[m
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Mon Nov 4 21:27:51 2024 +0100
+
+    Create README.md
+
+[33mcommit c37eb0732aa69df7ec0fb20b88f8b0af02ce317e[m
+Author: dinnarus <99605736+Malek-Dinari@users.noreply.github.com>
+Date:   Mon Nov 4 21:21:40 2024 +0100
+
+    Initial ommit
